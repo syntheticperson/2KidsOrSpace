@@ -5,7 +5,7 @@ A software framework to promote the meme that encourages every Human couple, tha
 
 This is based on the following known truths:
 
-The surface area, and natural resources, of the planet Earth are finite, whereas the known volume of space is infinite, with the number of Earth-like planets discovered with increasing frequency.
+The surface area, and natural resources, of the planet Earth are finite, whereas the known volume of space is infinite, with the number of Earth-like planets being discovered with increasing frequency.
 
 Humans share the instinct of all Earth-based lifeforms to reproduce and multiply.
 
